@@ -6,6 +6,9 @@ nav .nav__right--section{
     margin-right: 10px;
     justify-content: space-between;
 }
+nav .nav__left--section a:hover{
+    text-decoration: underline;
+}
 .nav__menu--icon{
     display: none;
 }
