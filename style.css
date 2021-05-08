@@ -118,7 +118,7 @@ main .main__input--container .serch-icon{
 }
 /* Section Most Visited */
 main .main__mostVisited{
-    width: 80%;
+    width: 85%;
     max-width: 400px;
     height: auto;
     display: flex;
