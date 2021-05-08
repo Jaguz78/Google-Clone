@@ -138,15 +138,18 @@ main .main__mostVisited .card .card__img--container{
     flex-direction: column;
 }
 main .main__mostVisited .card img{
-    width: 75%;
-    height: 75%;
-    border-radius: 100px;
+    width: 50%;
+    height: 50%;
 }
 main .main__mostVisited .card{
     width: 20%;
     height: 20%;
     display: flex;
     text-align: center;
+}
+.card p{
+    margin-top: 10px;
+    font-size: 1.2rem;
 }
 /* footer */
 footer{

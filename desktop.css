@@ -1,0 +1,38 @@
+header nav{
+    justify-content: flex-end;
+}
+nav .nav__right--section{
+    width: 95px;
+    margin-right: 10px;
+    justify-content: space-between;
+}
+.nav__menu--icon{
+    display: none;
+}
+.main__google-logo{
+    margin: 8% 0 2% 0;
+}
+.google-logo{
+    width: 272px;
+    height: 92px;
+}
+.main__serch--container{
+    height: 40px;
+}
+main .micro-icon{
+    width: 20px;
+    height: 20px;
+}
+main .main__input--container .serch-icon{
+    width: 20px;
+    height: 20px;
+}
+footer ul{
+    display: flex;
+}
+footer .footer__right--container{
+    justify-content: flex-end;
+}
+footer ul li{
+    margin: 0 10px;
+}
