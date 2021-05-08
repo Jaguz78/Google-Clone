@@ -66,7 +66,7 @@ nav .nav__left--section{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 10%;
+    margin-top: 15%;
 }
 .google-logo{
     width: 232;
@@ -75,7 +75,7 @@ nav .nav__left--section{
 /* Serch */
 .main__serch--container{
     width: 100%;
-    height: 30px;
+    height: 35px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -107,6 +107,7 @@ main .micro-icon{
     background-size: cover;
     width: 15px;
     height: 15px;
+    margin-right: 5px;
 }
 main .main__input--container .serch-icon{
     width: 15px;
@@ -115,6 +116,7 @@ main .main__input--container .serch-icon{
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-left: 5px;
 }
 /* Section Most Visited */
 main .main__mostVisited{
