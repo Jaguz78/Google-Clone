@@ -42,6 +42,8 @@ nav .nav__right--section .main-icon{
     background-size: contain;
     width: 30px;
     height: 30px;
+    cursor: pointer;
+    opacity: 0.85;
 }
 nav .nav__right--section img{
     border-radius: 50%;
@@ -106,8 +108,11 @@ main .micro-icon{
     width: 15px;
     height: 15px;
 }
-.fas .fa-search{
+main .main__input--container .serch-icon{
     width: 15px;
     height: 15px;
-    color: green;
+    color: #a0a6ac;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
