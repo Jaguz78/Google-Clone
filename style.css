@@ -57,3 +57,40 @@ nav .nav__left--section{
     align-items: center;
     padding-left: 15px ;
 }
+/*--------- Main ---------*/
+.main__google-logo{
+    width: 100%;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+}
+.google-logo{
+    width: 232;
+    height: 52px;
+}
+/* Serch */
+.main__serch--container{
+    width: 100%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main__input--container{
+    width: 90%;
+    max-width: 530px;
+    height: 100%;
+    border-radius: 25px;
+    border: solid #dfe1e5 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.serch{
+    width: 80%;
+    height: 90%;
+    border: none;
+    outline: none;
+}
